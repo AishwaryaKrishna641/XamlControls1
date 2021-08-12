@@ -20,8 +20,7 @@
 
         </Grid.RowDefinitions>
 
-        <TimePicker Header="TimePicker" ClockIdentifier="24HourClock"  />
-
+        <TextBlock Text="Ädded TextBlock" FontSize="30" />
         <CalendarDatePicker Header="Calender Date Picker" 
                             Grid.Row="1" 
                             IsTodayHighlighted="False"
