@@ -20,7 +20,11 @@
 
         </Grid.RowDefinitions>
 
-        <TextBlock Text="Ädded TextBlock" FontSize="30" />
+        <StackPanel>
+            <TextBlock Text="Ädded TextBlock" FontSize="30" />
+            <TextBlock Text="Ädded TextBlock 2" FontSize="10" />
+
+        </StackPanel>
         <CalendarDatePicker Header="Calender Date Picker" 
                             Grid.Row="1" 
                             IsTodayHighlighted="False"
