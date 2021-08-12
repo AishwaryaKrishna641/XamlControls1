@@ -8165,11 +8165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aish-11973\\source\\repos\\XamlControls1\\XamlControls1.csproj",
+      "projectUniqueName": "D:\\XamlControls1\\XamlControls1.csproj",
       "projectName": "XamlControls1",
-      "projectPath": "C:\\Users\\aish-11973\\source\\repos\\XamlControls1\\XamlControls1.csproj",
+      "projectPath": "D:\\XamlControls1\\XamlControls1.csproj",
       "packagesPath": "C:\\Users\\aish-11973\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aish-11973\\source\\repos\\XamlControls1\\obj\\",
+      "outputPath": "D:\\XamlControls1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
